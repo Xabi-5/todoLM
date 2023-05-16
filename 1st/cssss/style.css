@@ -1,0 +1,18 @@
+p{
+    color:rgb(186, 163, 162);
+    padding: 20px;
+    font-size: 4em;
+    font-family: courier;
+}
+
+#special{
+    background-color: purple;
+}
+
+.imp{
+    background-color: skyblue;
+}
+
+h1,strong{
+    font-size: 40px;
+}

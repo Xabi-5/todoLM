@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<planet_ticket>
+
+    <passenger_name>
+        Major Tom
+    </passenger_name>
+
+    <origin_airport>
+        Lavacolla (SCQ)
+    </origin_airport>
+
+    <destination_airport>
+        Milano Bergamo (BGY)
+    </destination_airport>
+
+    <flight_data>
+        Clear weather, optimal conditions
+    </flight_data>
+
+    <flight_time>
+        11:00 UTC
+    </flight_time>
+
+</planet_ticket>

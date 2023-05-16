@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CV>
+    <name_surnames>
+        Jeremy Clarkson
+    </name_surnames>
+
+    <birthdate>
+        1/04/1960
+    </birthdate>
+
+    <residence>
+        <city>
+            Doncanster
+        </city>
+        
+        <country>
+            United Kingdom
+        </country>
+
+    </residence>
+    
+    <contact_data>
+        <telephone>
+            +70 3434 343 82
+        </telephone>
+
+        <email>
+            jezza@topgear.vroom
+        </email>
+    </contact_data>
+
+    <description>
+        I am a hardworking television presenter
+    </description>
+
+    <competences>
+        <competence id="1">
+            <name>
+                French
+            </name>
+
+            <level>
+                C1
+            </level>
+        </competence>
+
+        <competence id="2">
+            <name>
+                English
+            </name>
+
+            <level>
+                Native
+            </level>
+        </competence>
+    </competences>
+
+    <academic_ed>
+        <name>
+            Master in Motorsport direction
+        </name>
+
+        <center>
+            Harvard University
+        </center>
+
+        <year>
+            1985
+        </year>
+    </academic_ed>
+
+    <prof_exp>
+        <exp id="1">
+            <position>
+                Top Gear TV presenter
+            </position>
+            
+            <enterprise>
+                BBC Studios
+            </enterprise>
+
+            <startyear>
+                2002
+            </startyear>
+
+            <endyear>
+                2015
+            </endyear>
+        </exp>
+
+        <exp id="2">
+            <position>
+                The Grand Tour TV presenter
+            </position>
+            
+            <enterprise>
+                Amazon Studios
+            </enterprise>
+
+            <startyear>
+                2015
+            </startyear>
+
+            <endyear>
+                2022
+            </endyear>
+        </exp>
+
+    </prof_exp>
+</CV>

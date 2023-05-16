@@ -1,0 +1,54 @@
+*{
+    background-color: whitesmoke;
+}
+
+ol li{
+    background-color: gold;
+}
+
+h2+p{
+    background-color: beige;
+}
+
+div~h3{
+    background-color:silver;
+}
+
+h4{
+    background-color:  #ff2800;
+}
+
+h5{
+    color:rgb(255, 35, 99)
+}
+
+h6{
+    color:rgb(27, 63, 67)
+}
+[name]{
+    background-color: blueviolet;
+}
+[name ="name"]{
+    background-color: khaki;
+}
+
+[name^="name"]{
+    background-color: cornflowerblue;
+}
+
+[name$="name"]{
+    background-color: pink;
+}
+input:focus(){
+    background-color: darkgreen;
+}
+a:visited{
+    color:yellow
+}
+a:hover{
+    color:red;
+}
+
+a:active{
+    color: blue;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<e:employee xmlns:e="empleado">
+    <e:name>Erik T. Ray</e:name> 
+    <e:title>Mr. </e:title>
+    <e:publications>
+        <b:book xmlns:b="book">
+            <b:title>Learning XML</b:title>
+            <b:description>This second edition of the bestselling Learning XML provides web developers with a concise but grounded understanding of XML</b:description>
+            </b:book>
+           
+    </e:publications>
+</e:employee>

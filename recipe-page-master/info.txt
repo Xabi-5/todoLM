@@ -1,0 +1,21 @@
+Icons URL:
+- https://fonts.google.com/icons
+
+Fonts:
+- Playfair Display
+- Montserrat
+
+WordPress Theme:
+-Powder New
+
+Plugins WordPress:
+
+- All-In-One WP Migration (backup)
+- Fonts Plugin | Google Fonts Typography
+- Layout Grid
+- SVG Support
+
+SVG image change color:
+
+- https://hovancik.net/blog/2020/01/22/change-the-color-of-svg-image-via-css/
+- https://codepen.io/sosuke/pen/Pjoqqp

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<movies xmlns:xmllib="http://www.xmlmovielibrary.com"> <!--This has a namespace, xmllib -->
+    <xmllib:title>Star Wars:Episode I-The PhantomMenace</xmllib:title> <!--The namespace for this movie and its year is "http://www.xmlmovielibrary.com" -->
+    <xmllib:year>1999</xmllib:year>
+    <purchase xmlns:xmllib="http://www.othermovielibrary.com">
+        <xmllib:title>Star Wars:Episode II-Attack of the Clones</xmllib:title> <!--The namespace for this movie and its year is "http://www.othermovielibrary.com"  -->
+        <xmllib:year>2002</xmllib:year>
+    </purchase>
+    <xmllib:title>Star Wars:Episode III-Revenge of the Sith</xmllib:title><!--The namespace for this movie and its year is "http://www.xmlmovielibrary.com" -->
+    <xmllib:year>2005</xmllib:year>
+</movies> 

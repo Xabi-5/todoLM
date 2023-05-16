@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trip>
+
+    <clients>
+        <client id="1">
+            <name>
+                Marshall
+            </name>
+
+            <surname>
+                Mathers
+            </surname>
+
+        </client>
+
+        <client id="2">
+            <name>
+                Andrea
+            </name>
+
+            <surname>
+                Bocelli
+            </surname>
+
+        </client>
+
+    </clients>
+
+
+    <date>
+        <beginning>
+            04/07/2022
+        </beginning>
+
+        <ending>
+            19/07/2022
+        </ending>
+    </date>
+
+
+    <origin>
+        Monaco
+    </origin>
+
+
+    <destinations>
+        <destination id="1">
+            <city_name>
+                Palermo
+            </city_name>
+
+            <hotel_name>
+                Hotel Corleone
+            </hotel_name>
+
+            <number_nights>
+                5
+            </number_nights>
+        </destination>
+
+        <destination id="2">
+            <city_name>
+                Canterbury
+            </city_name>
+
+            <hotel_name>
+                Ye olde inn
+            </hotel_name>
+
+            <number_nights>
+                5
+            </number_nights>
+        </destination>
+
+        <destination id="3">
+            <city_name>
+                Albuquerque
+            </city_name>
+
+            <hotel_name>
+                <![CDATA[
+                Grand Heisenberg & Pinkman Resort
+                ]]>
+            </hotel_name>
+
+            <number_nights>
+                5
+            </number_nights>
+        </destination>
+
+    </destinations>
+
+
+    <cost>
+        12000 EUR
+    </cost>
+
+</trip>

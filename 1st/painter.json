@@ -1,0 +1,23 @@
+{
+    "painter": {
+        "name": "Claude Monet",
+        "birthdate": "14th of November, 1840",
+        "birthplace": "Paris, France",
+        "death_date": "5th of December, 1926",
+        "death_place": "Giverny, France",
+        "works":[
+            {
+            
+                "title": "Impression, Sunrise",
+                "year": "1872"
+            },{
+                "title":"Rouen Cathedral Series",
+                "year":"1892-1894"
+            },{
+                "name":"Water Lilies",
+                "year":"1890-1927"
+            }
+        
+        ]
+    }
+}

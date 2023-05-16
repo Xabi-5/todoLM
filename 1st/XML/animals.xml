@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+
+    <animal id="1">
+        <name>
+            wolf
+        </name>
+
+        <scientific_name>
+            canis lupus
+        </scientific_name>
+    </animal>
+
+    <animal id="2">
+        <name>
+            lion
+        </name>
+
+        <scientific_name>
+            panthera leo
+        </scientific_name>
+    </animal>
+
+</animals>

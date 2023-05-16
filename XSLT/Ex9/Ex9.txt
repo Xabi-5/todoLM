@@ -1,0 +1,2867 @@
+
+        ID: 1
+        Title: Caledonian Mercury
+        Date: 1811-08-26
+        Keywords: 
+         international trade
+         anonymous letters
+         Canada--commerce
+      
+        ID: 2
+        Title: Glasgow Advertiser
+        Date: 1789-01-05
+        Keywords: 
+         international trade
+         tariff
+      
+        ID: 3
+        Title: Glasgow Advertiser
+        Date: 1789-01-05
+        Keywords: 
+         postal service
+         agriculture
+      
+        ID: 4
+        Title: Glasgow Advertiser
+        Date: 1789-07-13
+        Keywords: 
+         slavery
+         international trade
+         agriculture
+      
+        ID: 5
+        Title: Glasgow Advertiser
+        Date: 1789-07-20
+        Keywords: 
+         agriculture
+         prices
+         international trade
+      
+        ID: 6
+        Title: Glasgow Advertiser
+        Date: 1789-07-20
+        Keywords: 
+         currency
+      
+        ID: 7
+        Title: Glasgow Advertiser
+        Date: 1789-07-20
+        Keywords: 
+         agriculture
+         international trade
+      
+        ID: 8
+        Title: Glasgow Advertiser
+        Date: 1789-07-06
+        Keywords: 
+         international trade
+      
+        ID: 9
+        Title: Glasgow Advertiser
+        Date: 1789-08-21
+        Keywords: 
+         international trade
+      
+        ID: 10
+        Title: Glasgow Advertiser
+        Date: 1789-08-21
+        Keywords: 
+         national characteristics
+         fire
+      
+        ID: 11
+        Title: Glasgow Advertiser
+        Date: 1789-08-24
+        Keywords: 
+         colonial government
+      
+        ID: 12
+        Title: Glasgow Advertiser
+        Date: 1789-08-24
+        Keywords: 
+         border dispute
+         slavery
+         timber trade
+      
+        ID: 13
+        Title: Glasgow Advertiser
+        Date: 1789-08-28
+        Keywords: 
+         national characteristics
+         settlement description
+         wages
+      
+        ID: 14
+        Title: Glasgow Advertiser
+        Date: 1789-08-28
+        Keywords: 
+         transportation
+      
+        ID: 15
+        Title: Glasgow Advertiser
+        Date: 1789-08-03
+        Keywords: 
+         international trade
+         prices
+      
+        ID: 16
+        Title: Glasgow Advertiser
+        Date: 1789-08-31
+        Keywords: 
+         emigration and immigration
+      
+        ID: 17
+        Title: Glasgow Advertiser
+        Date: 1789-08-07
+        Keywords: 
+         international trade
+         shipping
+         weather
+      
+        ID: 18
+        Title: Glasgow Advertiser
+        Date: 1789-09-21
+        Keywords: 
+         Native Americans
+         international trade
+         agriculture
+         settlement description
+      
+        ID: 19
+        Title: Glasgow Advertiser
+        Date: 1789-10-02
+        Keywords: 
+         transportation
+         Women--Great Britain
+         emigration and immigration
+      
+        ID: 20
+        Title: Glasgow Advertiser
+        Date: 1789-10-09
+        Keywords: 
+         weather
+      
+        ID: 21
+        Title: Glasgow Advertiser
+        Date: 1789-10-09
+        Keywords: 
+         international trade
+      
+        ID: 22
+        Title: Glasgow Advertiser
+        Date: 1789-10-09
+        Keywords: 
+         agriculture
+      
+        ID: 23
+        Title: Glasgow Advertiser
+        Date: 1789-10-09
+        Keywords: 
+         Native Americans
+      
+        ID: 24
+        Title: Glasgow Advertiser
+        Date: 1789-10-09
+        Keywords: 
+         weather
+         health
+      
+        ID: 25
+        Title: Glasgow Advertiser
+        Date: 1789-11-20
+        Keywords: 
+         slavery
+         slave insurrections
+      
+        ID: 26
+        Title: Glasgow Advertiser
+        Date: 1789-11-23
+        Keywords: 
+         international trade
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+      
+        ID: 28
+        Title: Glasgow Advertiser
+        Date: 1789-11-23
+        Keywords: 
+         Native Americans
+      
+        ID: 29
+        Title: Glasgow Advertiser
+        Date: 1789-11-23
+        Keywords: 
+         Native Americans
+      
+        ID: 31
+        Title: Glasgow Advertiser
+        Date: 1789-11-27
+        Keywords: 
+         revolution
+      
+        ID: 32
+        Title: Glasgow Advertiser
+        Date: 1789-12-11
+        Keywords: 
+         settlement description
+         religion
+         demography
+      
+        ID: 33
+        Title: Glasgow Advertiser
+        Date: 1789-12-11
+        Keywords: 
+         agriculture
+         international trade
+         currency
+         shipping
+      
+        ID: 34
+        Title: Glasgow Advertiser
+        Date: 1789-12-11
+        Keywords: 
+         agriculture
+         international trade
+      
+        ID: 35
+        Title: Glasgow Advertiser
+        Date: 1789-12-14
+        Keywords: 
+         international trade
+         meeting
+      
+        ID: 36
+        Title: Glasgow Advertiser
+        Date: 1789-12-14
+        Keywords: 
+         international trade
+         agriculture
+         shipping
+      
+        ID: 37
+        Title: Glasgow Advertiser
+        Date: 1789-12-14
+        Keywords: 
+         slave insurrections
+         international trade
+      
+        ID: 38
+        Title: Glasgow Advertiser
+        Date: 1789-12-14
+        Keywords: 
+         shipping
+         postal service
+      
+        ID: 40
+        Title: Glasgow Advertiser
+        Date: 1789-12-14
+        Keywords: 
+         slavery
+         slave insurrections
+      
+        ID: 41
+        Title: Glasgow Advertiser
+        Date: 1789-12-14
+        Keywords: 
+         newspapers
+      
+        ID: 42
+        Title: Glasgow Advertiser
+        Date: 1789-12-14
+        Keywords: 
+         religion
+      
+        ID: 43
+        Title: Glasgow Advertiser
+        Date: 1789-12-18
+        Keywords: 
+         shipping
+         postal service
+      
+        ID: 44
+        Title: Glasgow Advertiser
+        Date: 1789-12-18
+        Keywords: 
+         international trade
+         agriculture
+      
+        ID: 45
+        Title: Glasgow Advertiser
+        Date: 1789-12-18
+        Keywords: 
+         military
+         revolution
+      
+        ID: 46
+        Title: Glasgow Advertiser
+        Date: 1789-12-18
+        Keywords: 
+         Native Americans
+         colonial politics
+      
+        ID: 47
+        Title: Glasgow Advertiser
+        Date: 1789-12-18
+        Keywords: 
+         settlement description
+         Aboriginal Australians
+      
+        ID: 48
+        Title: Glasgow Advertiser
+        Date: 1789-12-18
+        Keywords: 
+         international trade
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         religion
+      
+        ID: 49
+        Title: Glasgow Advertiser
+        Date: 1789-12-21
+        Keywords: 
+         revolution
+      
+        ID: 50
+        Title: Glasgow Advertiser
+        Date: 1789-12-21
+        Keywords: 
+         weather
+      
+        ID: 51
+        Title: Glasgow Advertiser
+        Date: 1789-12-25
+        Keywords: 
+         agriculture
+         international trade
+      
+        ID: 52
+        Title: Glasgow Advertiser
+        Date: 1789-12-25
+        Keywords: 
+         international trade
+         agriculture
+      
+        ID: 53
+        Title: Glasgow Advertiser
+        Date: 1789-12-04
+        Keywords: 
+         slave insurrections
+      
+        ID: 54
+        Title: Glasgow Advertiser
+        Date: 1789-12-04
+        Keywords: 
+         transportation
+      
+        ID: 55
+        Title: Glasgow Advertiser
+        Date: 1789-12-07
+        Keywords: 
+         international trade
+         agriculture
+      
+        ID: 56
+        Title: Glasgow Advertiser
+        Date: 1789-12-07
+        Keywords: 
+         postal service
+      
+        ID: 57
+        Title: Glasgow Advertiser
+        Date: 1789-12-07
+        Keywords: 
+         settlement description
+         society
+      
+        ID: 58
+        Title: Glasgow Advertiser
+        Date: 1789-12-07
+        Keywords: 
+         slavery
+      
+        ID: 59
+        Title: Glasgow Advertiser
+        Date: 1790-01-01
+        Keywords: 
+         economic migration
+         colonial economy
+      
+        ID: 60
+        Title: Glasgow Advertiser
+        Date: 1790-01-04
+        Keywords: 
+         nationalism
+         songs
+      
+        ID: 61
+        Title: Glasgow Advertiser
+        Date: 1790-01-04
+        Keywords: 
+         crime
+      
+        ID: 62
+        Title: Glasgow Advertiser
+        Date: 1790-01-04
+        Keywords: 
+         Native Americans
+      
+        ID: 63
+        Title: Glasgow Advertiser
+        Date: 1790-01-04
+        Keywords: 
+         society
+      
+        ID: 64
+        Title: Glasgow Advertiser
+        Date: 1790-04-16
+        Keywords: 
+         Women--Great Britain
+         emigration and immigration
+      
+        ID: 65
+        Title: Glasgow Advertiser
+        Date: 1790-07-12
+        Keywords: 
+         international trade
+         prices
+         colonial government
+         Women--Great Britain
+         emigration and immigration
+         marriage
+      
+        ID: 67
+        Title: Glasgow Advertiser
+        Date: 1790-07-12
+        Keywords: 
+         gender
+      
+        ID: 68
+        Title: Glasgow Advertiser
+        Date: 1790-07-09
+        Keywords: 
+         Native Americans
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+      
+        ID: 69
+        Title: Glasgow Advertiser
+        Date: 1790-08-16
+        Keywords: 
+         international trade
+         Native Americans
+         settlement description
+         colonial politics
+      
+        ID: 70
+        Title: Glasgow Advertiser
+        Date: 1790-09-17
+        Keywords: 
+         marriage
+         Women--Great Britain
+         emigration and immigration
+         international trade
+      
+        ID: 71
+        Title: Glasgow Advertiser
+        Date: 1790-10-04
+        Keywords: 
+         international trade
+         agriculture
+      
+        ID: 72
+        Title: Glasgow Advertiser
+        Date: 1790-11-15
+        Keywords: 
+         marriage
+      
+        ID: 73
+        Title: Glasgow Advertiser
+        Date: 1790-11-19
+        Keywords: 
+         bequests
+         charity
+         religion
+         Native Americans
+      
+        ID: 74
+        Title: Glasgow Advertiser
+        Date: 1790-11-19
+        Keywords: 
+         marriage
+      
+        ID: 76
+        Title: Glasgow Advertiser
+        Date: 1790-11-22
+        Keywords: 
+         Native Americans
+         military
+         crime
+      
+        ID: 78
+        Title: Glasgow Advertiser
+        Date: 1790-11-26
+        Keywords: 
+         agriculture
+         international trade
+      
+        ID: 80
+        Title: Glasgow Advertiser
+        Date: 1790-11-26
+        Keywords: 
+         Native Americans
+         theatre
+      
+        ID: 81
+        Title: Glasgow Advertiser
+        Date: 1790-11-29
+        Keywords: 
+         slave insurrections
+      
+        ID: 82
+        Title: Glasgow Advertiser
+        Date: 1790-11-29
+        Keywords: 
+         shipping
+         war
+      
+        ID: 84
+        Title: Glasgow Advertiser
+        Date: 1790-11-08
+        Keywords: 
+         international trade
+         marriage
+         Women--Great Britain
+         emigration and immigration
+      
+        ID: 85
+        Title: Glasgow Advertiser
+        Date: 1790-12-13
+        Keywords: 
+         theatre
+         Native Americans
+      
+        ID: 86
+        Title: Glasgow Advertiser
+        Date: 1790-02-01
+        Keywords: 
+         Native Americans
+      
+        ID: 87
+        Title: Glasgow Advertiser
+        Date: 1791-05-23
+        Keywords: 
+         Native Americans
+      
+        ID: 89
+        Title: Glasgow Advertiser
+        Date: 1792-04-23
+        Keywords: 
+         longevity
+      
+        ID: 90
+        Title: Glasgow Advertiser
+        Date: 1792-04-23
+        Keywords: 
+         society
+         gender
+         national characteristics
+         education
+      
+        ID: 91
+        Title: Glasgow Advertiser
+        Date: 1792-08-06
+        Keywords: 
+         crime
+      
+        ID: 92
+        Title: Glasgow Advertiser
+        Date: 1793-01-14
+        Keywords: 
+         Native Americans
+         speeches
+         currency
+         foreign relations
+      
+        ID: 93
+        Title: Glasgow Advertiser
+        Date: 1793-07-22
+        Keywords: 
+         longevity
+      
+        ID: 94
+        Title: Glasgow Advertiser
+        Date: 1793-07-22
+        Keywords: 
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         Native Americans
+      
+        ID: 95
+        Title: Glasgow Advertiser
+        Date: 1793-07-29
+        Keywords: 
+         Native Americans
+         war
+      
+        ID: 96
+        Title: Glasgow Advertiser
+        Date: 1793-10-07
+        Keywords: 
+         Native Americans
+      
+        ID: 99
+        Title: Glasgow Advertiser
+        Date: 1794-02-10
+        Keywords: 
+         colonial government
+      
+        ID: 100
+        Title: Glasgow Advertiser
+        Date: 1794-02-14
+        Keywords: 
+         transportation
+         Women--Great Britain
+         emigration and immigration
+      
+        ID: 101
+        Title: Glasgow Advertiser
+        Date: 1794-02-07
+        Keywords: 
+         theatre
+         religion
+      
+        ID: 102
+        Title: Caledonian Mercury
+        Date: 1802-07-01
+        Keywords: 
+         settlement description
+         agriculture
+         international trade
+      
+        ID: 103
+        Title: Caledonian Mercury
+        Date: 1810-06-09
+        Keywords: 
+         colonial government
+         newspapers
+         crime
+         accidents
+      
+        ID: 104
+        Title: Caledonian Mercury
+        Date: 1812-08-29
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         military
+      
+        ID: 105
+        Title: Caledonian Mercury
+        Date: 1812-10-03
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         military
+         colonial government
+         speeches
+         Native Americans
+      
+        ID: 106
+        Title: Caledonian Mercury
+        Date: 1812-10-03
+        Keywords: 
+         speeches
+         military
+         colonial government
+      
+        ID: 107
+        Title: Caledonian Mercury
+        Date: 1812-11-09
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         Native Americans
+      
+        ID: 108
+        Title: Caledonian Mercury
+        Date: 1813-10-16
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         navy
+      
+        ID: 109
+        Title: Caledonian Mercury
+        Date: 1813-10-07
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         military
+         Native Americans
+         navy
+      
+        ID: 110
+        Title: Caledonian Mercury
+        Date: 1813-12-30
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+      
+        ID: 111
+        Title: Caledonian Mercury
+        Date: 1814-03-19
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         Native Americans
+      
+        ID: 112
+        Title: Caledonian Mercury
+        Date: 1814-05-26
+        Keywords: 
+         settlement description
+         crime
+         colonial government
+         international trade
+         Maori
+         Pacific Islanders
+         transportation
+      
+        ID: 113
+        Title: Caledonian Mercury
+        Date: 1814-09-12
+        Keywords: 
+         international trade
+         military
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+      
+        ID: 114
+        Title: Caledonian Mercury
+        Date: 1814-10-15
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         military
+         navy
+      
+        ID: 115
+        Title: Caledonian Mercury
+        Date: 1814-10-15
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         Native Americans
+      
+        ID: 116
+        Title: Caledonian Mercury
+        Date: 1814-12-08
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         Native Americans
+         military
+         privateering
+      
+        ID: 117
+        Title: Caledonian Mercury
+        Date: 1816-01-15
+        Keywords: 
+         settlement description
+         agriculture
+      
+        ID: 118
+        Title: Caledonian Mercury
+        Date: 1816-07-08
+        Keywords: 
+         census
+         slavery
+      
+        ID: 119
+        Title: Caledonian Mercury
+        Date: 1816-11-21
+        Keywords: 
+         currency
+         military
+         rebellion
+      
+        ID: 120
+        Title: Aberdeen Journal
+        Date: 1816-12-16
+        Keywords: 
+         Native Americans
+         military
+         rebellion
+      
+        ID: 121
+        Title: Caledonian Mercury
+        Date: 1817-07-21
+        Keywords: 
+         emigration and immigration
+         weather
+         agriculture
+         prices
+         economic migration
+      
+        ID: 122
+        Title: Caledonian Mercury
+        Date: 1818-01-01
+        Keywords: 
+         emigration and immigration
+         agriculture
+         newspapers
+         economic migration
+      
+        ID: 123
+        Title: Caledonian Mercury
+        Date: 1818-01-19
+        Keywords: 
+         international trade
+         meeting
+         transportation
+         shipwreck
+         currency
+         colonial government
+         fire
+      
+        ID: 124
+        Title: Caledonian Mercury
+        Date: 1818-01-19
+        Keywords: 
+         military
+         colonial government
+         crime
+      
+        ID: 125
+        Title: Caledonian Mercury
+        Date: 1818-01-19
+        Keywords: 
+         meeting
+         emigration and immigration
+         national characteristics
+         charity
+         economic migration
+      
+        ID: 126
+        Title: Aberdeen Journal
+        Date: 1818-01-28
+        Keywords: 
+         timber trade
+         international trade
+         manufacturing
+         emigration and immigration
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         weather
+         disease
+      
+        ID: 127
+        Title: Caledonian Mercury
+        Date: 1818-07-16
+        Keywords: 
+         war
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         military
+         colonial government
+      
+        ID: 128
+        Title: Caledonian Mercury
+        Date: 1818-07-04
+        Keywords: 
+         crime
+         filibustering
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+      
+        ID: 129
+        Title: Caledonian Mercury
+        Date: 1818-09-05
+        Keywords: 
+         meeting
+         colonial government
+         crime
+      
+        ID: 130
+        Title: Caledonian Mercury
+        Date: 1818-12-28
+        Keywords: 
+         settlement description
+         emigration and immigration
+         wages
+         disease
+         national characteristics
+         slavery
+      
+        ID: 131
+        Title: Caledonian Mercury
+        Date: 1818-02-26
+        Keywords: 
+         emigration and immigration
+         settlement description
+      
+        ID: 132
+        Title: Scotsman
+        Date: 1818-02-28
+        Keywords: 
+         undefined
+      
+        ID: 133
+        Title: Aberdeen Journal
+        Date: 1819-10-13
+        Keywords: 
+         undefined
+      
+        ID: 134
+        Title: Caledonian Mercury
+        Date: 1819-01-02
+        Keywords: 
+         emigration and immigration
+         settlement description
+         national characteristics
+         newspapers
+         slavery
+      
+        ID: 135
+        Title: Aberdeen Journal
+        Date: 1819-01-20
+        Keywords: 
+         undefined
+      
+        ID: 136
+        Title: Caledonian Mercury
+        Date: 1819-01-04
+        Keywords: 
+         undefined
+      
+        ID: 137
+        Title: Caledonian Mercury
+        Date: 1819-03-29
+        Keywords: 
+         settlement description
+         emigration and immigration
+      
+        ID: 138
+        Title: Aberdeen Journal
+        Date: 1819-04-28
+        Keywords: 
+         meeting
+         obituary
+         banking
+      
+        ID: 139
+        Title: Scotsman
+        Date: 1819-05-01
+        Keywords: 
+         bequests
+         currency
+         economic migration
+         Native Americans
+         international trade
+         transportation
+         war
+         agriculture
+      
+        ID: 140
+        Title: Aberdeen Journal
+        Date: 1819-05-26
+        Keywords: 
+         colonial politics
+         weather
+         disease
+         disease
+      
+        ID: 141
+        Title: Caledonian Mercury
+        Date: 1819-05-27
+        Keywords: 
+         emigration and immigration
+         settlement description
+         national characteristics
+         slavery
+         religion
+         wages
+      
+        ID: 142
+        Title: Caledonian Mercury
+        Date: 1819-05-27
+        Keywords: 
+         undefined
+      
+        ID: 143
+        Title: Caledonian Mercury
+        Date: 1819-05-07
+        Keywords: 
+         undefined
+      
+        ID: 144
+        Title: Aberdeen Journal
+        Date: 1819-06-02
+        Keywords: 
+         colonial government
+         law
+         military
+         postal service
+         rebellion
+         shipping
+         timber trade
+         weather
+      
+        ID: 145
+        Title: Caledonian Mercury
+        Date: 1819-06-28
+        Keywords: 
+         undefined
+      
+        ID: 146
+        Title: Caledonian Mercury
+        Date: 1819-06-28
+        Keywords: 
+         undefined
+      
+        ID: 147
+        Title: Caledonian Mercury
+        Date: 1819-07-22
+        Keywords: 
+         emigration and immigration
+      
+        ID: 148
+        Title: Aberdeen Journal
+        Date: 1819-07-28
+        Keywords: 
+         undefined
+      
+        ID: 149
+        Title: Aberdeen Journal
+        Date: 1819-07-28
+        Keywords: 
+         undefined
+      
+        ID: 150
+        Title: Aberdeen Journal
+        Date: 1819-07-07
+        Keywords: 
+         undefined
+      
+        ID: 151
+        Title: Caledonian Mercury
+        Date: 1819-08-16
+        Keywords: 
+         undefined
+      
+        ID: 152
+        Title: Aberdeen Journal
+        Date: 1819-08-25
+        Keywords: 
+         undefined
+      
+        ID: 153
+        Title: Aberdeen Journal
+        Date: 1819-09-22
+        Keywords: 
+         undefined
+      
+        ID: 154
+        Title: Caledonian Mercury
+        Date: 1819-10-11
+        Keywords: 
+         undefined
+      
+        ID: 155
+        Title: Aberdeen Journal
+        Date: 1819-10-27
+        Keywords: 
+         undefined
+      
+        ID: 156
+        Title: Aberdeen Journal
+        Date: 1819-11-10
+        Keywords: 
+         undefined
+      
+        ID: 157
+        Title: Caledonian Mercury
+        Date: 1819-02-15
+        Keywords: 
+         undefined
+      
+        ID: 158
+        Title: Caledonian Mercury
+        Date: 1820-01-13
+        Keywords: 
+         undefined
+      
+        ID: 159
+        Title: Caledonian Mercury
+        Date: 1820-01-24
+        Keywords: 
+         undefined
+      
+        ID: 160
+        Title: Scotsman
+        Date: 1820-01-29
+        Keywords: 
+         undefined
+      
+        ID: 161
+        Title: Scotsman
+        Date: 1820-01-08
+        Keywords: 
+         undefined
+      
+        ID: 162
+        Title: Glasgow Herald
+        Date: 1820-04-24
+        Keywords: 
+         undefined
+      
+        ID: 163
+        Title: Caledonian Mercury
+        Date: 1820-04-24
+        Keywords: 
+         undefined
+      
+        ID: 164
+        Title: Scotsman
+        Date: 1820-05-20
+        Keywords: 
+         undefined
+      
+        ID: 165
+        Title: Glasgow Herald
+        Date: 1820-05-22
+        Keywords: 
+         disease
+         shipping
+      
+        ID: 166
+        Title: Caledonian Mercury
+        Date: 1820-06-17
+        Keywords: 
+         undefined
+      
+        ID: 167
+        Title: Caledonian Mercury
+        Date: 1820-07-01
+        Keywords: 
+         undefined
+      
+        ID: 168
+        Title: Aberdeen Journal
+        Date: 1820-07-12
+        Keywords: 
+         undefined
+      
+        ID: 169
+        Title: Aberdeen Journal
+        Date: 1820-07-12
+        Keywords: 
+         emigration and immigration
+         privateering
+         shipping
+         shipwreck
+         Ottoman Empire
+      
+        ID: 170
+        Title: Aberdeen Journal
+        Date: 1820-07-12
+        Keywords: 
+         undefined
+      
+        ID: 171
+        Title: Aberdeen Journal
+        Date: 1820-07-19
+        Keywords: 
+         undefined
+      
+        ID: 172
+        Title: Aberdeen Journal
+        Date: 1820-08-02
+        Keywords: 
+         undefined
+      
+        ID: 173
+        Title: Aberdeen Journal
+        Date: 1821-01-17
+        Keywords: 
+         undefined
+      
+        ID: 174
+        Title: Scotsman
+        Date: 1821-01-26
+        Keywords: 
+         emigration and immigration
+      
+        ID: 175
+        Title: Aberdeen Journal
+        Date: 1821-01-31
+        Keywords: 
+         undefined
+      
+        ID: 176
+        Title: Aberdeen Journal
+        Date: 1821-03-14
+        Keywords: 
+         undefined
+      
+        ID: 177
+        Title: Glasgow Herald
+        Date: 1821-03-30
+        Keywords: 
+         undefined
+      
+        ID: 178
+        Title: Caledonian Mercury
+        Date: 1821-05-03
+        Keywords: 
+         undefined
+      
+        ID: 179
+        Title: Scotsman
+        Date: 1821-06-02
+        Keywords: 
+         undefined
+      
+        ID: 180
+        Title: Aberdeen Journal
+        Date: 1821-06-27
+        Keywords: 
+         undefined
+      
+        ID: 181
+        Title: Caledonian Mercury
+        Date: 1821-06-09
+        Keywords: 
+         undefined
+      
+        ID: 182
+        Title: Caledonian Mercury
+        Date: 1821-07-16
+        Keywords: 
+         undefined
+      
+        ID: 183
+        Title: Aberdeen Journal
+        Date: 1821-08-15
+        Keywords: 
+         undefined
+      
+        ID: 184
+        Title: Aberdeen Journal
+        Date: 1821-10-17
+        Keywords: 
+         undefined
+      
+        ID: 185
+        Title: Aberdeen Journal
+        Date: 1821-11-07
+        Keywords: 
+         undefined
+      
+        ID: 186
+        Title: Glasgow Herald
+        Date: 1821-02-05
+        Keywords: 
+         agriculture
+         colonial economy
+         colonial government
+         land speculation
+         prices
+         taxation
+      
+        ID: 187
+        Title: Glasgow Herald
+        Date: 1822-01-28
+        Keywords: 
+         settlement description
+      
+        ID: 188
+        Title: Scotsman
+        Date: 1822-10-19
+        Keywords: 
+         emigration and immigration
+         shipping
+         international trade
+         agriculture
+      
+        ID: 189
+        Title: Scotsman
+        Date: 1822-10-19
+        Keywords: 
+         undefined
+      
+        ID: 190
+        Title: Scotsman
+        Date: 1823-06-14
+        Keywords: 
+         undefined
+      
+        ID: 191
+        Title: Scotsman
+        Date: 1823-09-10
+        Keywords: 
+         undefined
+      
+        ID: 192
+        Title: Scotsman
+        Date: 1823-09-03
+        Keywords: 
+         undefined
+      
+        ID: 193
+        Title: Scotsman
+        Date: 1824-05-05
+        Keywords: 
+         undefined
+      
+        ID: 194
+        Title: Scotsman
+        Date: 1824-01-21
+        Keywords: 
+         undefined
+      
+        ID: 195
+        Title: Scotsman
+        Date: 1824-01-31
+        Keywords: 
+         military
+         transportation
+      
+        ID: 196
+        Title: Scotsman
+        Date: 1824-03-27
+        Keywords: 
+         undefined
+      
+        ID: 197
+        Title: Scotsman
+        Date: 1824-03-06
+        Keywords: 
+         undefined
+      
+        ID: 198
+        Title: Scotsman
+        Date: 1824-04-03
+        Keywords: 
+         undefined
+      
+        ID: 199
+        Title: Scotsman
+        Date: 1824-05-12
+        Keywords: 
+         agriculture
+      
+        ID: 200
+        Title: Scotsman
+        Date: 1824-06-09
+        Keywords: 
+         undefined
+      
+        ID: 201
+        Title: Scotsman
+        Date: 1824-08-25
+        Keywords: 
+         undefined
+      
+        ID: 202
+        Title: Scotsman
+        Date: 1824-02-11
+        Keywords: 
+         undefined
+      
+        ID: 203
+        Title: Scotsman
+        Date: 1824-02-28
+        Keywords: 
+         undefined
+      
+        ID: 204
+        Title: Scotsman
+        Date: 1825-10-19
+        Keywords: 
+         undefined
+      
+        ID: 205
+        Title: Scotsman
+        Date: 1827-03-03
+        Keywords: 
+         undefined
+      
+        ID: 206
+        Title: Scotsman
+        Date: 1828-04-02
+        Keywords: 
+         undefined
+      
+        ID: 207
+        Title: Scotsman
+        Date: 1828-05-07
+        Keywords: 
+         law
+         marriage
+         transportation
+      
+        ID: 208
+        Title: Scotsman
+        Date: 1828-06-25
+        Keywords: 
+         alcohol
+         colonial government
+      
+        ID: 209
+        Title: Scotsman
+        Date: 1828-08-09
+        Keywords: 
+         botany
+      
+        ID: 210
+        Title: Scotsman
+        Date: 1828-12-24
+        Keywords: 
+         emigration and immigration
+      
+        ID: 211
+        Title: Scotsman
+        Date: 1829-05-20
+        Keywords: 
+         colonial government
+         agriculture
+      
+        ID: 212
+        Title: Scotsman
+        Date: 1829-06-10
+        Keywords: 
+         undefined
+      
+        ID: 213
+        Title: Scotsman
+        Date: 1829-07-25
+        Keywords: 
+         international trade
+         shipping
+      
+        ID: 214
+        Title: Scotsman
+        Date: 1829-08-19
+        Keywords: 
+         undefined
+      
+        ID: 215
+        Title: Scotsman
+        Date: 1829-11-04
+        Keywords: 
+         undefined
+      
+        ID: 216
+        Title: Scotsman
+        Date: 1830-04-24
+        Keywords: 
+         colonial government
+         nationalism
+         emigration and immigration
+         disease
+      
+        ID: 217
+        Title: Scotsman
+        Date: 1830-10-09
+        Keywords: 
+         undefined
+      
+        ID: 218
+        Title: Scotsman
+        Date: 1830-11-10
+        Keywords: 
+         international trade
+         shipping
+         emigration and immigration
+         settlement description
+      
+        ID: 219
+        Title: Scotsman
+        Date: 1831-06-29
+        Keywords: 
+         agriculture
+         international trade
+      
+        ID: 220
+        Title: Scotsman
+        Date: 1831-06-04
+        Keywords: 
+         emigration and immigration
+         religion
+         shipping
+      
+        ID: 221
+        Title: Scotsman
+        Date: 1831-07-27
+        Keywords: 
+         undefined
+      
+        ID: 222
+        Title: Scotsman
+        Date: 1831-12-17
+        Keywords: 
+         undefined
+      
+        ID: 223
+        Title: Scotsman
+        Date: 1831-02-05
+        Keywords: 
+         transportation
+      
+        ID: 224
+        Title: Scotsman
+        Date: 1832-03-03
+        Keywords: 
+         emigration and immigration
+         shipping
+      
+        ID: 225
+        Title: Scotsman
+        Date: 1832-04-07
+        Keywords: 
+         undefined
+      
+        ID: 226
+        Title: Scotsman
+        Date: 1832-10-13
+        Keywords: 
+         undefined
+      
+        ID: 227
+        Title: Scotsman
+        Date: 1833-05-29
+        Keywords: 
+         international trade
+         price
+         agriculture
+      
+        ID: 228
+        Title: Scotsman
+        Date: 1833-06-29
+        Keywords: 
+         undefined
+      
+        ID: 229
+        Title: Scotsman
+        Date: 1833-07-10
+        Keywords: 
+         undefined
+      
+        ID: 230
+        Title: Scotsman
+        Date: 1833-08-03
+        Keywords: 
+         transportation
+         shipping
+      
+        ID: 231
+        Title: Scotsman
+        Date: 1833-08-07
+        Keywords: 
+         undefined
+      
+        ID: 232
+        Title: Scotsman
+        Date: 1833-09-25
+        Keywords: 
+         agriculture
+         prices
+         international trade
+      
+        ID: 233
+        Title: Scotsman
+        Date: 1833-10-05
+        Keywords: 
+         undefined
+      
+        ID: 234
+        Title: Scotsman
+        Date: 1833-12-07
+        Keywords: 
+         emigration and immigration
+      
+        ID: 235
+        Title: Scotsman
+        Date: 1833-02-02
+        Keywords: 
+         undefined
+      
+        ID: 236
+        Title: Scotsman
+        Date: 1833-02-02
+        Keywords: 
+         Women--Great Britain
+         emigration and immigration
+         emigration and immigration
+         emigration scheme
+      
+        ID: 237
+        Title: Scotsman
+        Date: 1834-04-16
+        Keywords: 
+         undefined
+      
+        ID: 238
+        Title: Scotsman
+        Date: 1834-06-18
+        Keywords: 
+         shipping
+         international trade
+      
+        ID: 239
+        Title: Scotsman
+        Date: 1834-06-28
+        Keywords: 
+         colonial government
+      
+        ID: 240
+        Title: Scotsman
+        Date: 1834-07-02
+        Keywords: 
+         undefined
+      
+        ID: 241
+        Title: Scotsman
+        Date: 1834-07-23
+        Keywords: 
+         colonial government
+         emigration and immigration
+      
+        ID: 242
+        Title: Scotsman
+        Date: 1834-07-05
+        Keywords: 
+         undefined
+      
+        ID: 243
+        Title: Scotsman
+        Date: 1834-08-02
+        Keywords: 
+         undefined
+      
+        ID: 244
+        Title: Scotsman
+        Date: 1834-09-24
+        Keywords: 
+         weather
+         timber trade
+         shipping
+         fire
+      
+        ID: 245
+        Title: Scotsman
+        Date: 1834-11-11
+        Keywords: 
+         colonial government
+      
+        ID: 246
+        Title: Scotsman
+        Date: 1834-11-08
+        Keywords: 
+         undefined
+      
+        ID: 247
+        Title: Scotsman
+        Date: 1835-05-13
+        Keywords: 
+         undefined
+      
+        ID: 248
+        Title: Scotsman
+        Date: 1835-07-08
+        Keywords: 
+         transportation
+      
+        ID: 249
+        Title: Scotsman
+        Date: 1835-08-05
+        Keywords: 
+         undefined
+      
+        ID: 250
+        Title: Scotsman
+        Date: 1835-08-05
+        Keywords: 
+         Women--Great Britain
+         emigration and immigration
+         emigration and immigration
+      
+        ID: 251
+        Title: Scotsman
+        Date: 1835-09-16
+        Keywords: 
+         navy
+         colonial politics
+      
+        ID: 252
+        Title: Scotsman
+        Date: 1835-11-21
+        Keywords: 
+         undefined
+      
+        ID: 253
+        Title: Scotsman
+        Date: 1836-03-12
+        Keywords: 
+         undefined
+      
+        ID: 254
+        Title: Scotsman
+        Date: 1836-03-12
+        Keywords: 
+         undefined
+      
+        ID: 255
+        Title: Scotsman
+        Date: 1836-03-26
+        Keywords: 
+         undefined
+      
+        ID: 256
+        Title: Scotsman
+        Date: 1836-04-16
+        Keywords: 
+         undefined
+      
+        ID: 257
+        Title: Scotsman
+        Date: 1836-04-09
+        Keywords: 
+         meeting
+         law
+         suffrage
+         monuments
+         weather
+         theatre
+         religion
+         obituary
+         emigration and immigration
+         disease
+      
+        ID: 258
+        Title: Scotsman
+        Date: 1836-05-18
+        Keywords: 
+         undefined
+      
+        ID: 259
+        Title: Scotsman
+        Date: 1836-07-16
+        Keywords: 
+         colonial government
+         emigration and immigration
+         Women--Great Britain
+         emigration and immigration
+         emigration scheme
+         corruption
+      
+        ID: 260
+        Title: Scotsman
+        Date: 1836-07-16
+        Keywords: 
+         undefined
+      
+        ID: 261
+        Title: Scotsman
+        Date: 1836-07-06
+        Keywords: 
+         undefined
+      
+        ID: 262
+        Title: Scotsman
+        Date: 1836-08-10
+        Keywords: 
+         undefined
+      
+        ID: 263
+        Title: Scotsman
+        Date: 1836-08-10
+        Keywords: 
+         undefined
+      
+        ID: 264
+        Title: Scotsman
+        Date: 1836-10-26
+        Keywords: 
+         undefined
+      
+        ID: 265
+        Title: Scotsman
+        Date: 1836-12-07
+        Keywords: 
+         undefined
+      
+        ID: 266
+        Title: Scotsman
+        Date: 1837-05-10
+        Keywords: 
+         undefined
+      
+        ID: 267
+        Title: Scotsman
+        Date: 1837-06-07
+        Keywords: 
+         undefined
+      
+        ID: 268
+        Title: Scotsman
+        Date: 1837-07-01
+        Keywords: 
+         undefined
+      
+        ID: 269
+        Title: Scotsman
+        Date: 1837-07-09
+        Keywords: 
+         shipping
+         land speculation
+         emigration and immigration
+      
+        ID: 270
+        Title: Scotsman
+        Date: 1837-11-22
+        Keywords: 
+         undefined
+      
+        ID: 271
+        Title: Scotsman
+        Date: 1838-06-09
+        Keywords: 
+         undefined
+      
+        ID: 272
+        Title: Scotsman
+        Date: 1838-09-22
+        Keywords: 
+         undefined
+      
+        ID: 273
+        Title: Scotsman
+        Date: 1838-09-22
+        Keywords: 
+         religion
+         rebellion
+         emigration and immigration
+      
+        ID: 274
+        Title: Scotsman
+        Date: 1838-11-24
+        Keywords: 
+         undefined
+      
+        ID: 275
+        Title: Scotsman
+        Date: 1839-04-10
+        Keywords: 
+         transportation
+         religion
+      
+        ID: 276
+        Title: Scotsman
+        Date: 1839-04-03
+        Keywords: 
+         emigration and immigration
+         land speculation
+      
+        ID: 277
+        Title: Scotsman
+        Date: 1839-05-11
+        Keywords: 
+         land speculation
+         shipping
+         Pacific Islanders
+      
+        ID: 278
+        Title: Scotsman
+        Date: 1839-06-05
+        Keywords: 
+         obituary
+         religion
+         botany
+      
+        ID: 279
+        Title: Scotsman
+        Date: 1839-07-10
+        Keywords: 
+         emigration and immigration
+         shipping
+      
+        ID: 280
+        Title: Scotsman
+        Date: 1839-07-24
+        Keywords: 
+         accidents
+         emigration and immigration
+         shipwreck
+      
+        ID: 281
+        Title: Scotsman
+        Date: 1839-07-25
+        Keywords: 
+         undefined
+      
+        ID: 282
+        Title: Scotsman
+        Date: 1839-07-27
+        Keywords: 
+         undefined
+      
+        ID: 283
+        Title: Scotsman
+        Date: 1839-07-27
+        Keywords: 
+         undefined
+      
+        ID: 284
+        Title: Scotsman
+        Date: 1839-07-06
+        Keywords: 
+         undefined
+      
+        ID: 285
+        Title: Scotsman
+        Date: 1839-08-28
+        Keywords: 
+         undefined
+      
+        ID: 286
+        Title: Scotsman
+        Date: 1839-09-11
+        Keywords: 
+         undefined
+      
+        ID: 287
+        Title: Scotsman
+        Date: 1839-09-28
+        Keywords: 
+         international trade
+         shipping
+         emigration and immigration
+         accidents
+      
+        ID: 288
+        Title: Scotsman
+        Date: 1839-11-23
+        Keywords: 
+         undefined
+      
+        ID: 289
+        Title: Scotsman
+        Date: 1839-11-24
+        Keywords: 
+         charity
+         economic migration
+         emigration and immigration
+      
+        ID: 290
+        Title: Scotsman
+        Date: 1840-04-18
+        Keywords: 
+         undefined
+      
+        ID: 291
+        Title: Scotsman
+        Date: 1840-05-13
+        Keywords: 
+         undefined
+      
+        ID: 292
+        Title: Scotsman
+        Date: 1840-07-29
+        Keywords: 
+         undefined
+      
+        ID: 293
+        Title: Scotsman
+        Date: 1840-08-12
+        Keywords: 
+         undefined
+      
+        ID: 294
+        Title: Scotsman
+        Date: 1840-08-15
+        Keywords: 
+         shipping
+         emigration and immigration
+      
+        ID: 295
+        Title: Scotsman
+        Date: 1840-10-28
+        Keywords: 
+         undefined
+      
+        ID: 296
+        Title: Scotsman
+        Date: 1840-12-05
+        Keywords: 
+         undefined
+      
+        ID: 297
+        Title: Scotsman
+        Date: 1841-03-20
+        Keywords: 
+         undefined
+      
+        ID: 298
+        Title: Scotsman
+        Date: 1841-03-31
+        Keywords: 
+         undefined
+      
+        ID: 299
+        Title: Scotsman
+        Date: 1841-04-14
+        Keywords: 
+         undefined
+      
+        ID: 300
+        Title: Scotsman
+        Date: 1841-04-07
+        Keywords: 
+         economic migration
+         emigration and immigration
+      
+        ID: 301
+        Title: Scotsman
+        Date: 1841-09-22
+        Keywords: 
+         undefined
+      
+        ID: 302
+        Title: Scotsman
+        Date: 1841-10-09
+        Keywords: 
+         undefined
+      
+        ID: 304
+        Title: Scotsman
+        Date: 1841-11-17
+        Keywords: 
+         shipping
+         society
+         settlement description
+         emigration and immigration
+      
+        ID: 305
+        Title: Scotsman
+        Date: 1841-11-24
+        Keywords: 
+         emigration and immigration
+      
+        ID: 306
+        Title: Scotsman
+        Date: 1841-12-22
+        Keywords: 
+         undefined
+      
+        ID: 307
+        Title: Scotsman
+        Date: 1841-12-25
+        Keywords: 
+         emigration and immigration
+         census
+      
+        ID: 308
+        Title: Scotsman
+        Date: 1841-12-29
+        Keywords: 
+         crime
+         agriculture
+         bequests
+         fire
+         religion
+         settlement description
+         society
+         theatre
+         international trade
+         weather
+         monuments
+      
+        ID: 309
+        Title: Scotsman
+        Date: 1841-12-29
+        Keywords: 
+         undefined
+      
+        ID: 310
+        Title: Scotsman
+        Date: 1841-02-17
+        Keywords: 
+         undefined
+      
+        ID: 311
+        Title: Scotsman
+        Date: 1842-03-19
+        Keywords: 
+         obituary
+         colonial politics
+      
+        ID: 312
+        Title: Scotsman
+        Date: 1842-05-18
+        Keywords: 
+         undefined
+      
+        ID: 313
+        Title: Scotsman
+        Date: 1842-02-05
+        Keywords: 
+         undefined
+      
+        ID: 314
+        Title: Glasgow Advertiser
+        Date: 1790-11-01
+        Keywords: 
+         weather
+         Native Americans
+      
+        ID: 315
+        Title: Glasgow Advertiser
+        Date: 1790-11-01
+        Keywords: 
+         Native Americans
+      
+        ID: 316
+        Title: Glasgow Advertiser
+        Date: 1793-01-07
+        Keywords: 
+         Native Americans
+         war
+      
+        ID: 317
+        Title: Glasgow Advertiser
+        Date: 1792-04-27
+        Keywords: 
+         war
+         Native Americans
+         international trade
+         national characteristics
+      
+        ID: 318
+        Title: Glasgow Advertiser
+        Date: 1791-06-27
+        Keywords: 
+         Native Americans
+      
+        ID: 319
+        Title: Glasgow Advertiser
+        Date: 1791-05-02
+        Keywords: 
+         agriculture
+         Native Americans
+      
+        ID: 320
+        Title: Glasgow Advertiser
+        Date: 1791-03-04
+        Keywords: 
+         Native Americans
+         Spanish Empire
+      
+        ID: 321
+        Title: Glasgow Advertiser
+        Date: 1790-11-05
+        Keywords: 
+         Native Americans
+         war
+      
+        ID: 322
+        Title: Glasgow Advertiser
+        Date: 1790-11-08
+        Keywords: 
+         war
+         Spanish Empire
+      
+        ID: 323
+        Title: Glasgow Advertiser
+        Date: 1791-11-08
+        Keywords: 
+         war
+         Native Americans
+      
+        ID: 324
+        Title: Glasgow Advertiser
+        Date: 1791-01-21
+        Keywords: 
+         war
+         Native Americans
+         colonial government
+         agriculture
+         filibustering
+      
+        ID: 326
+        Title: Glasgow Advertiser
+        Date: 1790-09-20
+        Keywords: 
+         weather
+         shipping
+         accidents
+         earthquake
+      
+        ID: 327
+        Title: Glasgow Advertiser
+        Date: 1791-02-07
+        Keywords: 
+         international trade
+         taxation
+         war
+         Native Americans
+         agriculture
+         colonial government
+         foreign relations
+      
+        ID: 328
+        Title: Glasgow Advertiser
+        Date: 1791-01-21
+        Keywords: 
+         Native Americans
+      
+        ID: 329
+        Title: Glasgow Advertiser
+        Date: 1791-01-31
+        Keywords: 
+         international trade
+         Native Americans
+         crime
+      
+        ID: 330
+        Title: Glasgow Advertiser
+        Date: 1791-01-07
+        Keywords: 
+         census
+         reprinting
+         slavery
+         shipping
+         emigration and immigration
+         war
+         Native Americans
+         slavery
+         mining
+         shipping
+         international trade
+      
+        ID: 331
+        Title: Glasgow Advertiser
+        Date: 1791-07-18
+        Keywords: 
+         Native Americans
+      
+        ID: 332
+        Title: Glasgow Advertiser
+        Date: 1792-06-25
+        Keywords: 
+         Native Americans
+         obituary
+      
+        ID: 333
+        Title: Glasgow Advertiser
+        Date: 1791-06-24
+        Keywords: 
+         Native Americans
+         war
+      
+        ID: 334
+        Title: Glasgow Advertiser
+        Date: 1791-01-10
+        Keywords: 
+         shipping
+         Native Americans
+         war
+         colonial government
+         colonial politics
+         weather
+         crime
+      
+        ID: 335
+        Title: Glasgow Advertiser
+        Date: 1791-05-09
+        Keywords: 
+         weather
+         Native Americans
+         war
+         international trade
+         census
+         colonial government
+         religion
+      
+        ID: 336
+        Title: Glasgow Advertiser
+        Date: 1791-05-13
+        Keywords: 
+         Native Americans
+         war
+      
+        ID: 337
+        Title: Glasgow Advertiser
+        Date: 1792-04-20
+        Keywords: 
+         Native Americans
+         war
+      
+        ID: 338
+        Title: Glasgow Advertiser
+        Date: 1792-04-23
+        Keywords: 
+         international trade
+         alcohol
+         war
+      
+        ID: 339
+        Title: Glasgow Advertiser
+        Date: 1792-04-16
+        Keywords: 
+         war
+         Native Americans
+         military
+      
+        ID: 340
+        Title: Glasgow Advertiser
+        Date: 1790-06-21
+        Keywords: 
+         war
+         Native Americans
+         navy
+         settlement description
+      
+        ID: 341
+        Title: Glasgow Advertiser
+        Date: 1790-02-22
+        Keywords: 
+         slave insurrections
+         weather
+         shipping
+         shipping
+         Native Americans
+         international trade
+         foreign relations
+      
+        ID: 97
+        Title: Glasgow Advertiser
+        Date: 1794-09-12
+        Keywords: 
+         colonial government
+         crime
+         abolition
+         slavery
+         colonial government
+         Freemasons
+         religion
+         military
+         currency
+         navy
+         wages
+         census
+         emigration and immigration
+      
+        ID: 342
+        Title: Glasgow Advertiser
+        Date: 1790-07-12
+        Keywords: 
+         war
+         Native Americans
+      
+        ID: 343
+        Title: Glasgow Advertiser
+        Date: 1790-06-18
+        Keywords: 
+         Native Americans
+         war
+         international trade
+         border dispute
+         war
+         international trade
+         privateering
+      
+        ID: 344
+        Title: Glasgow Advertiser
+        Date: 1790-05-17
+        Keywords: 
+         disease
+         earthquake
+         shipping
+         slavery
+         mutiny
+         Native Americans
+         shipping
+         slavery
+         rebellion
+         shipwreck
+      
+        ID: 345
+        Title: Glasgow Advertiser
+        Date: 1790-05-24
+        Keywords: 
+         international trade
+         fashion
+         Native Americans
+         textiles
+         international trade
+         foreign relations
+         foreign relations
+         crime
+         slavery
+         Spanish Empire
+         mining
+         international trade
+         embargoes
+         shipwreck
+         textiles
+      
+        ID: 346
+        Title: Glasgow Advertiser
+        Date: 1790-10-04
+        Keywords: 
+         international trade
+         manufacturing
+         wages
+         land speculation
+      
+        ID: 347
+        Title: Glasgow Advertiser
+        Date: 1791-02-21
+        Keywords: 
+         Native Americans
+      
+        ID: 348
+        Title: Glasgow Advertiser
+        Date: 1791-02-21
+        Keywords: 
+         Native Americans
+         crime
+      
+        ID: 349
+        Title: Glasgow Advertiser
+        Date: 1791-07-25
+        Keywords: 
+         shipping
+         weather
+         war
+         Native Americans
+         textiles
+         gambling
+         longevity
+         fire
+         international trade
+      
+        ID: 351
+        Title: Glasgow Advertiser
+        Date: 1792-08-17
+        Keywords: 
+         Native Americans
+         war
+         foreign relations
+         colonial government
+         weather
+         shipwreck
+      
+        ID: 352
+        Title: Glasgow Advertiser
+        Date: 1792-08-20
+        Keywords: 
+         war
+         Native Americans
+         war
+         Native Americans
+      
+        ID: 353
+        Title: Glasgow Advertiser
+        Date: 1792-12-14
+        Keywords: 
+         Native Americans
+         war
+         border dispute
+         military
+      
+        ID: 354
+        Title: Glasgow Advertiser
+        Date: 1792-10-08
+        Keywords: 
+         weather
+         weather
+         weather
+         Native Americans
+         crime
+         war
+         war
+      
+        ID: 356
+        Title: Glasgow Advertiser
+        Date: 1793-08-30
+        Keywords: 
+         undefined
+      
+        ID: 357
+        Title: Caledonian Mercury
+        Date: 1817-01-06
+        Keywords: 
+         cannibalism
+         Pacific Islanders
+      
+        ID: 358
+        Title: Aberdeen Journal
+        Date: 1817-01-08
+        Keywords: 
+         cannibalism
+         Pacific Islanders
+      
+        ID: 359
+        Title: Sydney Gazette
+        Date: 1815-11-08
+        Keywords: 
+         cannibalism
+         Pacific Islanders
+      
+        ID: 360
+        Title: Morning Chronicle
+        Date: 1817-01-03
+        Keywords: 
+         cannibalism
+         Pacific Islanders
+      
+        ID: 361
+        Title: London Times
+        Date: 1817-01-02
+        Keywords: 
+         cannibalism
+         Pacific Islanders
+      
+        ID: 362
+        Title: London Star
+        Date: 1817-01-01
+        Keywords: 
+         cannibalism
+         Pacific Islanders
+      
+        ID: 363
+        Title: London Courier
+        Date: 1817-01-02
+        Keywords: 
+         cannibalism
+         Pacific Islanders
+      
+        ID: 364
+        Title: London St James Chronicle and Evening Post
+        Date: 1817-01-02
+        Keywords: 
+         cannibalism
+         Pacific Islanders
+      
+        ID: 365
+        Title: Glasgow Advertiser
+        Date: 1793-08-30
+        Keywords: 
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         foreign relations
+      
+        ID: 366
+        Title: Glasgow Advertiser
+        Date: 1794-01-24
+        Keywords: 
+         Native Americans
+         war
+      
+        ID: 367
+        Title: Glasgow Herald
+        Date: 1822-01-28
+        Keywords: 
+         settlement description
+         national characteristics
+         slavery
+         international trade
+         society
+      
+        ID: 368
+        Title: Glasgow Advertiser
+        Date: 1794-07-25
+        Keywords: 
+         land speculation
+         settlement description
+         newspapers
+         agriculture
+         taxation
+         education
+         emigration and immigration
+      
+        ID: 369
+        Title: Glasgow Advertiser
+        Date: 1793-01-11
+        Keywords: 
+         speeches
+         Native Americans
+         international trade
+         currency
+         foreign relations
+      
+        ID: 370
+        Title: Glasgow Advertiser
+        Date: 1792-09-17
+        Keywords: 
+         weather
+         Native Americans
+         accidents
+         fire
+         colonial politics
+      
+        ID: 371
+        Title: Glasgow Advertiser
+        Date: 1793-12-13
+        Keywords: 
+         Native Americans
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         disease
+         obituary
+         crime
+      
+        ID: 372
+        Title: Glasgow Advertiser
+        Date: 1794-01-06
+        Keywords: 
+         settlement description
+      
+        ID: 373
+        Title: Glasgow Advertiser
+        Date: 1794-01-27
+        Keywords: 
+         speeches
+         international trade
+         Native Americans
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         foreign relations
+         embargoes
+      
+        ID: 374
+        Title: Glasgow Advertiser
+        Date: 1794-07-18
+        Keywords: 
+         Native Americans
+         crime
+      
+        ID: 375
+        Title: Glasgow Advertiser
+        Date: 1794-07-21
+        Keywords: 
+         Native Americans
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         privateering
+         border dispute
+      
+        ID: 376
+        Title: Glasgow Advertiser
+        Date: 1794-07-11
+        Keywords: 
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         border dispute
+         embargoes
+      
+        ID: 377
+        Title: Glasgow Advertiser
+        Date: 1794-07-18
+        Keywords: 
+         Native Americans
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         war
+         shipping
+      
+        ID: 378
+        Title: Glasgow Advertiser
+        Date: 1794-11-17
+        Keywords: 
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         Native Americans
+         war
+      
+        ID: 379
+        Title: Trewman's Exeter Flying Post
+        Date: 1810-01-11
+        Keywords: 
+         crime
+         obituary
+      
+        ID: 380
+        Title: Examiner
+        Date: 1810-01-17
+        Keywords: 
+         crime
+         obituary
+      
+        ID: 381
+        Title: Morning Chronicle
+        Date: 1810-01-06
+        Keywords: 
+         crime
+         obituary
+      
+        ID: 382
+        Title: Glasgow Advertiser
+        Date: 1789-09-28
+        Keywords: 
+         international trade
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         colonial government
+      
+        ID: 383
+        Title: Glasgow Advertiser
+        Date: 1789-09-28
+        Keywords: 
+         war
+      
+        ID: 384
+        Title: Glasgow Advertiser
+        Date: 1789-09-28
+        Keywords: 
+         international trade
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+         agriculture
+         timber trade
+      
+        ID: 385
+        Title: Glasgow Advertiser
+        Date: 1789-11-27
+        Keywords: 
+         national characteristics
+      
+        ID: 386
+        Title: Glasgow Advertiser
+        Date: 1789-11-13
+        Keywords: 
+         agriculture
+         weather
+      
+        ID: 387
+        Title: Glasgow Advertiser
+        Date: 1789-09-07
+        Keywords: 
+         slave insurrections
+         slavery
+      
+        ID: 388
+        Title: Glasgow Advertiser
+        Date: 1789-09-07
+        Keywords: 
+         international trade
+         agriculture
+         slavery
+      
+        ID: 389
+        Title: Glasgow Advertiser
+        Date: 1789-01-01
+        Keywords: 
+         international trade
+         colonial government
+      
+        ID: 390
+        Title: Glasgow Advertiser
+        Date: 1789-09-02
+        Keywords: 
+         international trade
+      
+        ID: 391
+        Title: Glasgow Advertiser
+        Date: 1789-09-23
+        Keywords: 
+         agriculture
+         international trade
+      
+        ID: 392
+        Title: Glasgow Advertiser
+        Date: 1789-09-25
+        Keywords: 
+         international trade
+         United States--Relations--Great Britain
+         Great Britain--Relations--United States
+      
+        ID: 393
+        Title: Glasgow Advertiser
+        Date: 1789-09-25
+        Keywords: 
+         shipping
+         international trade
+      
+        ID: 394
+        Title: Glasgow Advertiser
+        Date: 1789-09-25
+        Keywords: 
+         postal service
+      
+        ID: 395
+        Title: Glasgow Advertiser
+        Date: 1789-09-21
+        Keywords: 
+         Native Americans
+         colonial government
+         demographics
+      
+        ID: 396
+        Title: Glasgow Advertiser
+        Date: 1789-09-21
+        Keywords: 
+         international trade
+      
+        ID: 397
+        Title: Glasgow Advertiser
+        Date: 1790-11-19
+        Keywords: 
+         food poisoning
+         maritime accidents
+      
+        ID: 398
+        Title: Glasgow Advertiser
+        Date: 1790-11-15
+        Keywords: 
+         shipwreck
+         maritime accidents
+      
+        ID: 399
+        Title: Glasgow Advertiser
+        Date: 1792-08-13
+        Keywords: 
+         international trade
+         Canada--commerce
+         United States--commerce
+      
+        ID: 400
+        Title: Glasgow Advertiser
+        Date: 1790-11-15
+        Keywords: 
+         Native Americans
+      
+        ID: 401
+        Title: Glasgow Advertiser
+        Date: 1790-11-12
+        Keywords: 
+         slave insurrections
+      
+        ID: 402
+        Title: Glasgow Advertiser
+        Date: 1792-08-13
+        Keywords: 
+         cotton manufacture
+         obituaries
+      
+        ID: 403
+        Title: Glasgow Advertiser
+        Date: 1790-11-08
+        Keywords: 
+         emigration and immigration
+         Women--Great Britain
+      

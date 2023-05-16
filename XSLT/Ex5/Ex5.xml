@@ -1,0 +1,15 @@
+<customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Ex5.xsd" id="1">
+    <name>
+        <first>María</first>
+        <middle>Dolores</middle>
+        <last>Rodríguez</last>
+    </name>
+    <address>
+        <street>O Castiñeiriño</street>
+        <city>O Pino</city>
+        <state>Galicia</state>
+        <country>España</country>
+        <postalcode>15823</postalcode>
+    </address>
+</customer>
